@@ -1,4 +1,4 @@
-# VENUS BOT, PARA DISCORD
+# VENUS, BOT PARA DISCORD
 ## SÉRIE DE EXEMPLOS DE COMANDOS E FUNÇÕES
 
 ![Visualization](https://i.imgur.com/RoAik47.png)
