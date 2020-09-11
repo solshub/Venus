@@ -1,0 +1,699 @@
+{
+ "705809656072634449": {
+  "exp": {
+   "727625714492506121": {
+    "oldLevel": 21,
+    "messages": 4204,
+    "interactions": 142,
+    "required": 5146
+   },
+   "707194142836523009": {
+    "oldLevel": 75,
+    "messages": 53434,
+    "interactions": 890,
+    "required": 58876
+   },
+   "742411400164409425": {
+    "oldLevel": 9,
+    "messages": 1051,
+    "interactions": 3,
+    "required": 1126
+   },
+   "753360674692006113": {
+    "oldLevel": 7,
+    "messages": 661,
+    "interactions": 0,
+    "required": 736
+   }
+  },
+  "cash": {
+   "balance": 206700,
+   "games": {
+    "won": 95580,
+    "lost": 82030
+   }
+  },
+  "isOwned": "374905886931681282",
+  "created": "2020-06-15T12:00:00.000Z",
+  "daily": "2020-09-10T15:05:37.400Z"
+ },
+ "315991714223620097": {
+  "exp": {
+   "727625714492506121": {
+    "oldLevel": 1,
+    "messages": 8,
+    "interactions": 2,
+    "required": 46
+   },
+   "707194142836523009": {
+    "oldLevel": 5,
+    "messages": 320,
+    "interactions": 0,
+    "required": 426
+   },
+   "742411400164409425": {
+    "oldLevel": 1,
+    "messages": 7,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 2030,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T03:34:44.273Z"
+ },
+ "374905886931681282": {
+  "exp": {
+   "727625714492506121": {
+    "oldLevel": 19,
+    "messages": 3277,
+    "interactions": 138,
+    "required": 4276
+   },
+   "707194142836523009": {
+    "oldLevel": 53,
+    "messages": 26578,
+    "interactions": 460,
+    "required": 29946
+   },
+   "742411400164409425": {
+    "oldLevel": 9,
+    "messages": 972,
+    "interactions": 3,
+    "required": 1126
+   }
+  },
+  "cash": {
+   "balance": 139127,
+   "games": {
+    "won": 54766,
+    "lost": 32676
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T03:41:08.543Z",
+  "daily": "2020-09-09T10:08:40.925Z",
+  "pet": {
+   "food": 0,
+   "fun": 0,
+   "love": 1074,
+   "inventory": {
+    "foods": [],
+    "items": [
+     {
+      "ico": "<:coleira_punk:733770922397401128>",
+      "name": "coleira punk",
+      "effectStr": "Tenha mais sorte em apostas.",
+      "effect": {
+       "type": "giveBonusBet"
+      }
+     },
+     {
+      "ico": "<:laco_estiloso:733772179002622022>",
+      "name": "laço estiloso",
+      "effectStr": "deixe o perfil de seu pet azul claro.",
+      "effect": {
+       "type": "mascotColor",
+       "value": "#00FFFF"
+      }
+     },
+     {
+      "ico": "<:bolinha_tenis:734520419301982260>",
+      "name": "bolinha de tênis",
+      "effectStr": "ganhe ¥8 sóis a cada mensagem.",
+      "effect": {
+       "type": "cashMessage",
+       "value": 8
+      }
+     }
+    ]
+   },
+   "since": "2020-08-07T00:32:45.638Z",
+   "id": "705809656072634449",
+   "washed": "2020-09-05T01:10:17.190Z"
+  }
+ },
+ "422826922855366656": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 26,
+    "messages": 7173,
+    "interactions": 58,
+    "required": 7671
+   }
+  },
+  "cash": {
+   "balance": 26740,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T05:08:57.982Z"
+ },
+ "242035080535474179": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 33,
+    "messages": 11407,
+    "interactions": 73,
+    "required": 12046
+   }
+  },
+  "cash": {
+   "balance": 46040,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T05:09:02.832Z"
+ },
+ "612806225931010078": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 56,
+    "messages": 28143,
+    "interactions": 1001,
+    "required": 33321
+   },
+   "753360674692006113": {
+    "oldLevel": 5,
+    "messages": 422,
+    "interactions": 0,
+    "required": 426
+   }
+  },
+  "cash": {
+   "balance": 67538,
+   "games": {
+    "won": 63870,
+    "lost": 48780
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T05:11:23.031Z",
+  "daily": "2020-08-31T03:00:00.000Z",
+  "pet": {
+   "food": 0,
+   "fun": 0,
+   "love": 36,
+   "inventory": {
+    "foods": [
+     {
+      "ico": "<:cereal:742041916022980669>",
+      "name": "cereal",
+      "fill": 10,
+      "quantity": 2
+     }
+    ],
+    "items": [
+     {
+      "ico": "<:coleira_comum:733719434262216825>",
+      "name": "coleira comum",
+      "effectStr": "sem efeitos adicionais...",
+      "effect": []
+     },
+     {
+      "ico": "<:bolinha_tenis:734520419301982260>",
+      "name": "bolinha de tênis",
+      "effectStr": "ganhe ¥8 sóis a cada mensagem.",
+      "effect": {
+       "type": "cashMessage",
+       "value": 8
+      }
+     }
+    ]
+   },
+   "since": "2020-08-27T23:29:26.857Z",
+   "id": "416728831571918849",
+   "washed": "2020-08-28T11:48:11.931Z"
+  }
+ },
+ "527549850276069376": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 37,
+    "messages": 10055,
+    "interactions": 938,
+    "required": 14986
+   }
+  },
+  "cash": {
+   "balance": 12202,
+   "games": {
+    "won": 7870,
+    "lost": 14175
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T05:28:19.685Z",
+  "daily": "2020-09-10T15:16:28.541Z",
+  "pet": {
+   "food": 0,
+   "fun": 0,
+   "love": 152,
+   "inventory": {
+    "foods": [
+     {
+      "ico": "<:cereal:742041916022980669>",
+      "name": "cereal",
+      "fill": 10,
+      "quantity": 4
+     }
+    ],
+    "items": [
+     {
+      "ico": "<:coleira_comum:733719434262216825>",
+      "name": "coleira comum",
+      "effectStr": "sem efeitos adicionais...",
+      "effect": []
+     },
+     {
+      "ico": "<:bolinha_comum:734520419289137162>",
+      "name": "bolinha de plástico",
+      "effectStr": "ganhe ¥6 sóis a cada mensagem.",
+      "effect": {
+       "type": "cashMessage",
+       "value": 6
+      }
+     }
+    ]
+   },
+   "since": "2020-08-27T23:32:55.607Z",
+   "id": "556519549319643177",
+   "washed": "2020-09-04T22:16:43.940Z"
+  }
+ },
+ "338803154449727500": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 12,
+    "messages": 1498,
+    "interactions": 52,
+    "required": 1861
+   }
+  },
+  "cash": {
+   "balance": 10363,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T07:29:42.747Z",
+  "daily": "2020-09-09T14:59:55.192Z"
+ },
+ "466310198655713280": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 15,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1075,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T07:50:20.466Z"
+ },
+ "556519549319643177": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 32,
+    "messages": 9954,
+    "interactions": 165,
+    "required": 11361
+   }
+  },
+  "cash": {
+   "balance": 21344,
+   "games": {
+    "won": 0,
+    "lost": 80
+   }
+  },
+  "isOwned": "527549850276069376",
+  "created": "2020-07-16T08:11:38.153Z",
+  "daily": "2020-09-03T03:00:00.000Z"
+ },
+ "617119565700268052": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 17,
+    "messages": 3248,
+    "interactions": 2,
+    "required": 3486
+   }
+  },
+  "cash": {
+   "balance": 11765,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-16T19:11:30.597Z"
+ },
+ "416728831571918849": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 34,
+    "messages": 12484,
+    "interactions": 23,
+    "required": 12751
+   }
+  },
+  "cash": {
+   "balance": 44800,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": "612806225931010078",
+  "created": "2020-07-17T08:58:11.310Z"
+ },
+ "677669229243269149": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 1,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1005,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-18T01:59:24.475Z"
+ },
+ "598744704720306189": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 28,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1130,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-19T05:04:41.342Z"
+ },
+ "713353254091620362": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 2,
+    "messages": 60,
+    "interactions": 2,
+    "required": 111
+   }
+  },
+  "cash": {
+   "balance": 1200,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-22T03:24:02.101Z"
+ },
+ "631102327142481960": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 2,
+    "messages": 90,
+    "interactions": 0,
+    "required": 111
+   }
+  },
+  "cash": {
+   "balance": 1225,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-22T21:27:17.216Z"
+ },
+ "733165073392205884": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 8,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1020,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-07-23T11:23:06.557Z"
+ },
+ "pet": {},
+ "219135110564413440": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 2,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1010,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-06T02:22:17.937Z"
+ },
+ "635622534594691092": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 2,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1010,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-07T03:00:50.015Z"
+ },
+ "531271338527293472": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 5,
+    "messages": 419,
+    "interactions": 0,
+    "required": 426
+   }
+  },
+  "cash": {
+   "balance": 3095,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-15T01:18:29.557Z"
+ },
+ "355990942001659904": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 2,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1010,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-15T01:32:36.484Z"
+ },
+ "544042361769164814": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 2,
+    "messages": 74,
+    "interactions": 0,
+    "required": 111
+   }
+  },
+  "cash": {
+   "balance": 1370,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-27T15:39:32.585Z"
+ },
+ "726212194810855475": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 4,
+    "messages": 249,
+    "interactions": 0,
+    "required": 301
+   }
+  },
+  "cash": {
+   "balance": 2245,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-27T18:15:36.318Z"
+ },
+ "352244655871623178": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 12,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1060,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-08-30T20:59:37.113Z"
+ },
+ "728965109317238795": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 11,
+    "messages": 1583,
+    "interactions": 1,
+    "required": 1596
+   }
+  },
+  "cash": {
+   "balance": 11706,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-09-02T13:43:26.189Z",
+  "daily": "2020-09-09T16:08:03.113Z"
+ },
+ "525520498260443146": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 2,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1010,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-09-02T13:54:19.597Z"
+ },
+ "751871980860342292": {
+  "exp": {
+   "742411400164409425": {
+    "oldLevel": 1,
+    "messages": 9,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1045,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-09-05T21:56:45.039Z"
+ },
+ "378691150787117057": {
+  "exp": {
+   "707194142836523009": {
+    "oldLevel": 1,
+    "messages": 9,
+    "interactions": 0,
+    "required": 46
+   }
+  },
+  "cash": {
+   "balance": 1045,
+   "games": {
+    "won": 0,
+    "lost": 0
+   }
+  },
+  "isOwned": false,
+  "created": "2020-09-07T01:50:05.151Z"
+ }
+}

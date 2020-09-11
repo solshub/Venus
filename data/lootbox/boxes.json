@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lootbox comum",
+    "value": 500,
+    "prizes": [0, 250, 750, 1250, 1750],
+    "chances": [30, 40, 20, 9, 1]
+  },
+  {
+    "name": "Lootbox rara",
+    "value": 1000,
+    "prizes": [0, 500, 1500, 2500, 3500],
+    "chances": [20, 42.5, 22.5, 11.5, 3.5]
+  },
+  {
+    "name": "Lootbox épica",
+    "value": 2000,
+    "prizes": [0, 1000, 3000, 5000],
+    "chances": [10, 47, 27, 16]
+  }
+]

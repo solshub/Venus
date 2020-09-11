@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "ico": "<:coleira_vermelha:733760447370756166>",
+      "name": "coleira vermelha",
+      "effectStr": "Ganhe o dobro de experiência.",
+      "effect": {
+        "type": "giveBonusExp"
+      },
+      "value": 20000
+    },
+    {
+      "ico": "<:coleira_punk:733770922397401128>",
+      "name": "coleira punk",
+      "effectStr": "Tenha mais sorte em apostas.",
+      "effect": {
+        "type": "giveBonusBet"
+      },
+      "value": 25000
+    },
+    {
+      "ico": "<:coleira_chique:733773805859635301>",
+      "name": "coleira chique",
+      "effectStr": "Ganhe o dobro de pontos de amor.",
+      "effect": {
+        "type": "giveBonusLove"
+      },
+      "value": 20000
+    },
+    
+    {
+      "ico": "<:laco_gotico:733771858922438787>",
+      "name": "laço gótico",
+      "effectStr": "deixe o perfil de seu pet escuro.",
+      "effect": {
+        "type": "mascotColor",
+        "value": "#DBDBDB"
+      },
+      "value": 5000
+    },
+    {
+      "ico": "<:laco_rosa:733771473382277192>",
+      "name": "laço rosa",
+      "effectStr": "deixe o perfil de seu pet rosa.",
+      "effect": {
+        "type": "mascotColor",
+        "value": "#FC0FC0"
+      },
+      "value": 10000
+    },
+    {
+      "ico": "<:laco_estiloso:733772179002622022>",
+      "name": "laço estiloso",
+      "effectStr": "deixe o perfil de seu pet azul claro.",
+      "effect": {
+        "type": "mascotColor",
+        "value": "#00FFFF"
+      },
+      "value": 15000
+    },
+
+    {
+      "ico": "<:bolinha_comum:734520419289137162>",
+      "name": "bolinha de plástico",
+      "effectStr": "ganhe ¥6 sóis a cada mensagem.",
+      "effect": {
+        "type": "cashMessage",
+        "value": 6
+      },
+      "value": 6000
+    },
+    {
+      "ico": "<:bolinha_colorida:734520418949660684>",
+      "name": "bolinha colorida",
+      "effectStr": "ganhe ¥7 sóis a cada mensagem.",
+      "effect": {
+        "type": "cashMessage",
+        "value": 7
+      },
+      "value": 12000
+    },
+    {
+      "ico": "<:bolinha_tenis:734520419301982260>",
+      "name": "bolinha de tênis",
+      "effectStr": "ganhe ¥8 sóis a cada mensagem.",
+      "effect": {
+        "type": "cashMessage",
+        "value": 8
+      },
+      "value": 18000
+    }
+  ],
+  "foods": [
+    {
+      "ico": "<:cereal:742041916022980669>",
+      "name": "cereal",
+      "fill": 10,
+      "value": 300
+    },
+    {
+      "ico": "<:biscoito:737042563466526750>",
+      "name": "biscoito",
+      "fill": 20,
+      "value": 600
+    },
+    {
+      "ico": "<:whiskas:737042564125032560>",
+      "name": "whiskas",
+      "fill": 30,
+      "value": 900
+    },
+    {
+      "ico": "<:file:737042564351524954>",
+      "name": "filé",
+      "fill": 40,
+      "value": 1200
+    },
+    {
+      "ico": "<:salmao:737042564024107099>",
+      "name": "salmão",
+      "fill": 40,
+      "value": 1200
+    },
+    {
+      "ico": "<:coxa:737042564196335696>",
+      "name": "coxa",
+      "fill": 50,
+      "value": 1500
+    }
+  ]
+}
